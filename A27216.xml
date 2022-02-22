@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The coppie of a letter sent to a gentlevvoman one of the separation in Holland in answer to a letter of hers, written to her sister, being a member of one of those societies, commonly (though falsely) called the new Anabaptists in London, wherein are briefly set down their reasons against the baptizing of infants : together with the grounds of their denyall, of sprinkling water upon the face in any name whatsoever, to be baptisme : and them of the separation justly charged for not walking answerable to their owne principles / by R.B.</title>
+            <author>R. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27216</idno>
+            <idno type="STC">Wing B163</idno>
+            <idno type="STC">ESTC R38562</idno>
+            <idno type="EEBO-CITATION">17761698</idno>
+            <idno type="OCLC">ocm 17761698</idno>
+            <idno type="VID">106598</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27216)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106598)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1626:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The coppie of a letter sent to a gentlevvoman one of the separation in Holland in answer to a letter of hers, written to her sister, being a member of one of those societies, commonly (though falsely) called the new Anabaptists in London, wherein are briefly set down their reasons against the baptizing of infants : together with the grounds of their denyall, of sprinkling water upon the face in any name whatsoever, to be baptisme : and them of the separation justly charged for not walking answerable to their owne principles / by R.B.</title>
+                  <author>R. B.</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anabaptists --  England.</term>
+               <term>Baptism.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:106598:1"/>
+            <pb facs="tcp:106598:1" rendition="simple:additions"/>
+            <p>THE COPPIE OF A LETTER SENT TO A GENTLEVVOMAN ONE OF THE SEPARATION IN HOLLAND. In Anſwer to a Letter of Hers, written to her Siſter, being a member of one of thoſe Socie<g ref="char:EOLhyphen"/>ties, commonly (though falſely) called the new <hi>Anabaptiſts</hi> in <hi>London.</hi>
+            </p>
+            <p>Wherein are briefly ſet downe their reaſons againſt the baptizing of Infants: together with the grounds of their denyall, of ſprinkling water upon the face in any name whatſoever, to be Baptiſme: And them of the Separation juſtly charged for not walking anſwerable to their owne Principles.</p>
+            <p>
+               <hi>By R. B.</hi>
+            </p>
+            <p>
+               <hi>LONDON;</hi> Printed in the yeare of liberty, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:106598:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:106598:2" rendition="simple:additions"/>
+            <head>THE COPPIE OF A LETTER Sent to a Gentlewoman, one of the Separation in <hi>Holland:</hi>
+            </head>
+            <opener>
+               <salute>Miſtreſſe M. B.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>ND our friend in the common Faith, <hi>we wiſh grace and peace through the knowledge of our Lord Ieſus Chriſt, to be multi<g ref="char:EOLhyphen"/>plyed unto you, &amp; unto all that love our Lord Ieſus Chriſt in ſin<g ref="char:EOLhyphen"/>cerity</hi> Amen.</p>
+            <p>Wee have underſtood deare friend, from your Siſter and ours, that you deſire to have communicated unto you, the grounds of our now practiſe, which your re<g ref="char:EOLhyphen"/>queſt we thinke reaſonable, and our ſelves bound to ſatisfie you in. Our houlding and practiſing of a communion of Saints in Church fellowſhip, ſeparated from ſuch as with whom the believer hath no part: 2. <hi>Cor,</hi> 6.15. wee thinke you ſeeke not a reaſon of it being that which you are convinced of as well as wee; nor do we thinke that you ſeeke to be informed, that there is an ordinance of God to be ſubmitted unto, by believers, called <hi>Baptiſme:</hi> but your inquiry is as wee conceive, where<g ref="char:EOLhyphen"/>fore we who have (as we have beene told) had that done unto us in our Infancie, which is commonly called <hi>Baptiſme,</hi> ſhould notwithſtanding repute our ſelves as unbaptized perſons, and ſhould become baptized, as if we had <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Baptiſme</hi> before, for which our practiſe, we preſent you with theſe ground<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> onely premiſing, that to be <hi>baptized</hi> is one of the coun<g ref="char:EOLhyphen"/>ſells of <hi>God</hi> which may not be rejected, <hi>Luke.</hi> 7.30.</p>
+            <p>
+               <pb n="2" facs="tcp:106598:3" rendition="simple:additions"/>
+Firſt, infants are not the ſubjects of <hi>Baptiſme,</hi> or are not the perſons whom God hath appointed to be <hi>baptized.</hi>
+            </p>
+            <p>Secondly, the ſprinkling water upon the face, which is all that wee ever heard of (that we had) is not <hi>Baptiſme.</hi>
+            </p>
+            <p>Thirdly, that which we in our Infancy had, if ſprinkling was <hi>Bap<g ref="char:EOLhyphen"/>tiſme,</hi> and Infants the ſubjects yet by the Separations owne grounds was not Gods Ordinance ſeeing the Church was falſe, where, and the mi<g ref="char:EOLhyphen"/>niſtry by whom we had it, and where there is neither true Church nor true Miniſterie, there can be no true religious adminiſtration, and as well as <hi>Mr. Can,</hi> may mannage ſeparation from the <hi>Nonconformiſts</hi> prin<g ref="char:EOLhyphen"/>ciples: may we mannage our practiſe from the Principles of yours, and Maſter <hi>Can,</hi> wee thinke therein doth well, it being the courſe which the Lord takes with the <hi>Jewes,</hi> and <hi>Paul</hi> with them of <hi>Corinth,</hi> 1 <hi>Cor.</hi> 7. and <hi>Luke</hi> 13.15.</p>
+            <p>But to the firſt of theſe three. <hi>Infants</hi> are not the ſubjects of Baptiſme, as appeareth to us by theſe reaſons.</p>
+            <p>Firſt, there is in all the word of God no command given to any per<g ref="char:EOLhyphen"/>ſon or perſons, officers, or perſons out of office, to baptize them: Now if the word of God be true, where it ſaith; <hi>all Scripture is given by inſpira<g ref="char:EOLhyphen"/>tion of God, and is profitable for Doctrine, reproofe, correction, inſtruction, in right<g ref="char:EOLhyphen"/>eouſneſſe, that the man of God may be perfect, thoroughly furniſhed unto every good worke,</hi> 2 <hi>Tim.</hi> 3.16, 17. the Scriptures giving no direction in the do<g ref="char:EOLhyphen"/>ing of nor unto any to do that worke, it can be no good worke, and there are of works, but good and bad, and our being ſo often called <hi>to the Law and to the Teſtimonies,</hi> and our being bid to give heed unto that ſure word of propheſie, <hi>that ſhineth as a light in a darke place, with an affir<g ref="char:EOLhyphen"/>mation that if wee give heed thereunto wee ſhall do well,</hi> cannot but imply at the leaſt, that we ſhall omit no duty, while wee do but what is written: and the Baptizing of Infants not being by <hi>God</hi> injoyned unto, or upon a<g ref="char:EOLhyphen"/>ny, nor by his word recorded to have beene done by any, it can be as no good worke, ſo no worke of light; and the Servants of <hi>God</hi> may not walke in darkneſſe. Hence do we in one reſpect decline that practiſe as an unwritten unverity.</p>
+            <p>Secondly, Infants have not in them thoſe requiſites that are neceſſary in that ſervice, which are, <hi>R<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>tance from dead works, and faith towards God. Heb.</hi> 6.1. &amp; <hi>Act.</hi> 8.36, 37. <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> 2.38. and wee thinke that of the <hi>Engliſh</hi> common Service Book, will be no objection of yours; ſaying, <hi>yes they do performe them by their ſureties?</hi>
+            </p>
+            <p>If you object that though repentance and faith were requiſites in per<g ref="char:EOLhyphen"/>ſons of yeares yet it followeth not that thoſe or either of them, are requi<g ref="char:EOLhyphen"/>red
+<pb n="3" facs="tcp:106598:3"/>of Infants, who by reaſon of their tender yeares cannot performe them:</p>
+            <p>Wee give thereunto three <hi>Anſwers.</hi>
+            </p>
+            <p>Firſt, as little as we find in the Scriptures, of the requiring of faith and repentance at the hands of Infants do we find of the <hi>Baptizing</hi> of Infants: wherefore if the not requiring of Faith and repentance from Infants, be a ſufficient exemption to them, from demonſtrating either; then in like manner by the ſame proportion, will the not requiring of Infants to be Baptized, and the not requiring of any to baptize them, be a ſufficient exemption both to the one, and to the other: That is our firſt anſwer.</p>
+            <p>Secondly, Wee finde that in all Ordinances, whereunto both old and young indefinitely had acceſſe, that which was a requiſite in one perſon, was a requiſite in every perſon, and was found indefinitely both in old and young. To eate the Paſſeover, <hi>Circumciſion</hi> was required, to precede, and that was all that was required, <hi>Exod.</hi> 12.47 48, 49, 50. To <hi>Circum<g ref="char:EOLhyphen"/>ciſion</hi> was required that the perſons were <hi>Males, borne in Abrahams houſe, of his Children or ſtrangers, or bought with his money of all the Heathen that were round about, Gen.</hi> 17.12.23.27. <hi>Exod.</hi> 12.44. theſe requiſites wee ſay, being all that were minded, ſuited with the condition of every one, and for us to hould out acceſſe to <hi>Chriſt</hi> in his Ordinances, to one by this way and to another by that, what is it but to make the Scriptures to be of <hi>private interpretation,</hi> and to make <hi>Chriſt</hi> who is one, and his way one, to become divided? this is to us likewiſe conſiderable.</p>
+            <p>Laſtly, that which will give admittance to one Ordinance, will give admittance unto another of like nature: now if the <hi>Sacraments</hi> (as they are called) or the <hi>new Covenant,</hi> be like the <hi>new Covenant,</hi> viz. ſpirituall, which who dares deny;</p>
+            <p>Then that which will give admittance unto Baptiſme, will give ad<g ref="char:EOLhyphen"/>mittance to the Lords Supper: and thus have we ſuch as neither have faith, nor ever profeſſed to have any, admitted to the Church, and to all the Ordinances thereof, and what is this but to make the new <hi>Covenant</hi> as carnall as the old, and the ſubjects of the one as carnall as the ſubjects of the other: and the blood of <hi>Chriſt</hi> to be of no more valew, then the blood of <hi>Fulls</hi> and <hi>Goates,</hi> that could not take away ſinne, <hi>Heb.</hi> 8.6, 7, 8. 1 <hi>Cor.</hi> 11.27 28.</p>
+            <p>Thirdly, the faith of the perſons (that ever have any) <hi>baptiſed</hi> in their Infancie, in the uſe of their <hi>baptiſme</hi> when they come to yeares, can be built but upon humane Teſtimonie, commonly that of a Pariſh Clarke: and to have our faith ſtand in the truth of men, is to have a foundation for it, like that of the wiſedom of men: which is oppoſed to the demon<g ref="char:EOLhyphen"/>ſtration
+<pb n="4" facs="tcp:106598:4"/>of the ſpirit and power of God; 1 <hi>Cor.</hi> 2.3, 4, 5.</p>
+            <p>If you object their, being circumciſed in their Infancie.</p>
+            <p>Wee anſwer, that it <hi>viz.</hi> Circumciſion left a marke in their fleſh, which they could not but take notice of: and therefore their knowledge of their being circumciſed depended not upon the teſtimonie of others.</p>
+            <p>Fourthly, they cannot riſe with <hi>Chriſt</hi> in Baptiſme, for they being In<g ref="char:EOLhyphen"/>ſants are only paſſive, and riſing with <hi>Chriſt</hi> in Baptiſme, being a part of Baptiſme, or being by Baptized perſons done in Baptiſme, they can<g ref="char:EOLhyphen"/>not be baptized, the one halfe of <hi>Baptiſme,</hi> being the act of the baptized ſeeing they cannot act, <hi>Col.</hi> 2.12. Like as they cannot partake of the Lords Supper that cannot eate, let the adminiſtrator do unto them what he can.</p>
+            <p>And thus we come to the ſecond head, <hi>viz.</hi> That ſprinkling of water upon the face of any perſon young or old is not <hi>Baptiſme,</hi> let it be done in what Name or with what Ceremonies it will: which is proved to us by theſe reaſons.</p>
+            <p>Firſt becauſe that the word which is tranſlated into <hi>Engliſh,</hi> Baptize, ſignifieth to dipp into water, and as ſprinkling water upon a thing, is not dipping the thing into water, but the contrary: ſo is ſprinkling water upon a thing not <hi>Baptiſme,</hi> but contrary to it, Thatthe <hi>Greek</hi> word which is tranſlated <hi>baptize,</hi> ſo ſignifieth <hi>viz.</hi> to dip into water, we have the Teſti<g ref="char:EOLhyphen"/>monies both of the Tranſlators of the Scriptures, of Paraphraſes, Expoſi<g ref="char:EOLhyphen"/>tors, and others, wee will not heere trouble you with many. <hi>Iſaack Cauſa<g ref="char:EOLhyphen"/>ben</hi> in his notes upon <hi>Math.</hi> 3.6. <hi>they were baptized in Iordan,</hi> ſaith thus, the manner of <hi>Baptiſme</hi> was to plunge the perſon Baptized over head in water, and is that which the word Baptiſing fully declareth; and by and by, it was not for nothing that ſome have diſputed for the plunging of the whole body into water in <hi>Baptiſme,</hi> for they urged the very word. Doctor <hi>Downame</hi> in his Book of Divinitie hath the ſame words in effect. <hi>V<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſinus,</hi> in his <hi>Catechiſme</hi> in the title of <hi>baptiſme</hi> ingenuouſly confeſſeth, that the <hi>Eaſt</hi> Churches did Baptize by dipping the whole body into wa<g ref="char:EOLhyphen"/>ter, in the 409. <hi>Page</hi> of his Book, and this ſignification: <hi>Ainſworth</hi> in his Annotations <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Numb.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lvin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>In<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ons.</hi> Chap. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>441.</hi>
+               </note> 11. <hi>Levit.</hi> 15. confeſſeth that word to have, but had we not theſe and a multitude of other Teſtimonies, the <hi>Scriptures</hi> in declaring the practiſes of Gods ſervants, give us light enough, <hi>Iohn</hi> 3.23. <hi>Iohn baptiſed in</hi> Aenon, <hi>becauſe there was much water there:</hi> which argueth a uſe of much water in <hi>baptiſme,</hi> elſe that which is there rendered as a reaſon of his Baptizing in <hi>denon,</hi> cannot be reaſonably expounded, <hi>Math.</hi> 3.4 5 6, 7. <hi>Ieſus came unto Iohn to Iordain to be baptized,</hi> and is ſaid to come up out of the waters when he was Baptized, which intimateth, that he
+<pb n="5" facs="tcp:106598:4"/>went into the water to be <hi>baptized,</hi> as the <hi>Eunuch</hi> and <hi>Philip</hi> are both ſaid to doe, <hi>Acts</hi> 8.36, 37, 38. Beſides theſe Teſtimonies and practices, the correſpondencie which the <hi>Apoſtle</hi> makes <hi>Baptiſme</hi> to hold with buriall, in 1 <hi>Cor.</hi> 15. and <hi>Rom.</hi> 6. <hi>Col.</hi> 2. holds out the ſame thing.</p>
+            <p>And laſtly the commiſſion given to the <hi>Apoſtles,</hi> and <hi>Diſciples</hi> of <hi>Chriſt,</hi> is to make <hi>Diſciples,</hi> and to <hi>baptize them, Math.</hi> 28.19.20. Now no rationall perſon will ſay there, that the face is the <hi>Diſciple,</hi> no more then they will allow us to ſay, the noſe is the face, yet if the face was the <hi>Diſciple,</hi> that is not ſo much as <hi>Baptized,</hi> how much leſſe the <hi>Diſciple;</hi>
+            </p>
+            <p>And wee ſhould aske theſe part baptizers, but that wee cannot truly call it baptizing, how they know the face ſhould have that beſprinkle<g ref="char:EOLhyphen"/>ing which they uſe. If they ſay the face is the moſt honourable part:</p>
+            <p>We anſwer, that it is not our honour, but our cleanſing from our fil<g ref="char:EOLhyphen"/>thineſſe which is by <hi>Baptiſme</hi> ſet forth: and no perſon indued with reaſon to ſet out the clenſing nature of water, would take that to waſh, which is free from filth, and how know they that honour ſhould ſway us in this caſe, and whereas they ſay that <hi>Baptiſme</hi> comes in the roome of <hi>Cir<g ref="char:EOLhyphen"/>cumciſion,</hi> they will make it out by their practices, for <hi>Circumciſions</hi> roome was the privie parts, (if we miſtake not) which they in their ſprinck<g ref="char:EOLhyphen"/>ling uſed inſteed of <hi>Baptiſme</hi> doe decline. But to ſumme up all this, if <hi>Baptiſme</hi> be a <hi>dipping</hi> of the whole body into water, as is proved by Te<g ref="char:EOLhyphen"/>ſtimonies, both divine and humane, then where no part of the body is <hi>dipped</hi> into water, there can be no part of <hi>Baptiſme,</hi> as there is not in that beſprinkling, which now adayes is falſely called <hi>Baptiſme.</hi>
+            </p>
+            <p>Come we now to the grounds, upon which they of the <hi>Separation</hi> doe proceed, they affirme, that the Covenant of which they hold <hi>baptiſme</hi> to be a ſeale, is made but with beleevers and their ſeed; and that the ſeale is no ſeale where no precedent Covenant hath beene: now the Parents of the moſt of them, by their owne confeſſion, were ungodly and unbeleevers, as the children of the <hi>Separation,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing their pretended Covenant commonly prove, and ſo had no covenant made with them, nor with their ſeed, nor as they affirme, had their ſeed, any Covenant made with them till they became beleevers.)</p>
+            <p>From which conſideration we may frame this argument.</p>
+            <p>If where no Covenant hath gone before, the Seale of the Covenant be ſet to, it becomes no Seale, then where no Covenant hath gone be<g ref="char:EOLhyphen"/>fore, <hi>Baptiſme</hi> being the Seale of the Covenant, if it be ſet to, becomes no <hi>Baptiſme.</hi>
+            </p>
+            <p>But where no Covenant hath gone before, the Seale of it be ſet to, be<g ref="char:EOLhyphen"/>comes no Seale.</p>
+            <p>
+               <pb n="6" facs="tcp:106598:5"/>
+               <hi>Ergo,</hi> where no Covenant hath gone before, <hi>Baptiſme</hi> being the Seale of the Covenant, if it be ſet to, becomes no <hi>Baptiſme.</hi>
+            </p>
+            <p>And thus are they quit of their <hi>Baptiſme,</hi> by their owne grant: for they which have no <hi>Baptiſme,</hi> but that which they had when they were with<g ref="char:EOLhyphen"/>out the Covenant, have no <hi>Baptiſme</hi> at all.</p>
+            <p>Againe they commonly affirme that <hi>Baptiſme</hi> upon the Baptizer is eſ<g ref="char:EOLhyphen"/>ſentially requiſit, that the <hi>baptiſme</hi> adminiſtred by him may be in force for ſay they <hi>baptiſme</hi> acted, by one unbaptized, unleſſe hee had a call like <hi>Iohn</hi> the <hi>Baptiſt,</hi> is a nullity: and thus if it bee poſſible their <hi>baptiſme</hi> is Worſe then naught, they themſelves being out of Covenant when they had it and having it for the moſt part, by perſons out of covenant, and by unpaptized ones, or at the beſt by perſons that ſucceſſively have re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ved their <hi>Baptiſme</hi> from <hi>Rome,</hi> where they ſay all adminiſtrations are Antichriſtian and voide, for <hi>Baptiſme</hi> in <hi>Rome</hi> by the moſt eminent of them, even by learned <hi>Ainſworth,</hi> is called an <hi>Idoll,</hi> and lying ſigne, and let all men judge whether the being under an <hi>Idoll,</hi> and lying ſigne, will enable perſons to communicate true <hi>Baptiſme.</hi> Laſtly the Scriptures and Arguments produced by the <hi>Separation</hi> and others, for the baptizing Infants, we ſhall briefly ſumme up and anſwer and then will leave o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> grounds with our ſelves to your judicious cenſure.</p>
+            <p>The grand argument of theirs, in confidence of the ſtrength of which they inſult like unto <hi>Goliah</hi> againſt the Armies of <hi>Iſrael,</hi> is, to all thoſe that are within the Covenant doth the Seale belong: but all the children of beleeving Parents are within the Covenant <hi>Ergo.</hi> Here wee humbly aske, what covenant it is they intend: if the old Covenant, to the old Co<g ref="char:EOLhyphen"/>venants Seales we ſend them, if they ſay they are all within the New Co<g ref="char:EOLhyphen"/>venant, we muſt needs ſay they ſpeak falſely, if <hi>God</hi> bee true, who is ſo; for <hi>Abraham Iſaac,</hi> and <hi>Iacob</hi> were beleevers, by the <hi>Scriptures</hi> owne Teſtimo<g ref="char:EOLhyphen"/>ny, and yet of their children <hi>God</hi> teſtifieth, <hi>though the number of them be as the ſand, yet but a remnant of them ſhall be ſaved, Rom.</hi> 9.27. And of <hi>Iſaacks</hi> children, <hi>God loved one, and hated the other, Rom.</hi> 9.13. And <hi>Gods New Covenant</hi> was not made with <hi>Iſmael, Gen.</hi> 17.19.20. Now if the New Covenant be as <hi>Ieremiah</hi> reporteth, <hi>Ier.</hi> 31, 32, 33, 34. and as is expreſſed, <hi>Heb.</hi> 8.8. and 10.15, 16, 17. Then <hi>God</hi> who keepeth Covenant muſt needs (to be true in what he promiſeth,) write his Lawes in the hearts of all beleevers children, they being within his Covenant, and except that <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thleſſe doctrine may be allowed for truth, that men may fall from <hi>grace,</hi> beleevers children muſt all be ſaved, which yet the <hi>Scripture</hi> denieth, <hi>Rom.</hi> 9.27 <hi>Iſaiah.</hi> 1.9. and <hi>Rom.</hi> 9.29.</p>
+            <p>They further affirme that the covenant made with <hi>Abraham</hi> and with
+<pb n="7" facs="tcp:106598:5"/>
+               <hi>his ſeed</hi> is made with the faithfull and their <hi>ſeed,</hi> to ſpeake in their own words, in that <hi>Abraham</hi> was but faithfull, and they thinke ſo of them<g ref="char:EOLhyphen"/>ſelves; fooliſhly erring in not conſidering, that they (if they be with<g ref="char:EOLhyphen"/>in the <hi>Covenant</hi>) come in, not in the place of <hi>Abraham,</hi> but in the place of his <hi>ſeed,</hi> and ſo are not <hi>Abrahams,</hi> Fathers of the faithfull, there be<g ref="char:EOLhyphen"/>ing but one that ever had that Priviledge; now they being themſelvs but <hi>ſeed</hi> to <hi>Abraham,</hi> and the promiſe reaching but to his <hi>ſeed,</hi> and not to his <hi>ſeeds ſeed,</hi> their Children are manifeſtly excluded <hi>the promiſe or Covenant,</hi> unleſſe they become <hi>Abrahams ſeed,</hi> and the Apoſtle teacheth us but one way by which the <hi>Gentiles</hi> doe become the <hi>ſeed</hi> of <hi>Abraham.</hi> Gal. 3. <hi>and if yee be</hi> Chriſts, <hi>then are yee</hi> Abrahams <hi>ſeed, and Heires ac<g ref="char:EOLhyphen"/>cording to the promiſe,</hi> ſo likewiſe <hi>Rom.</hi> 9.8. <hi>and they that are Chriſts have crucified the fleſh, with the paſſions and luſts: Gal.</hi> 5.24. and <hi>Luk.</hi> 19.9.</p>
+            <p>Laſtly, the Lord teacheth us how to underſtand the <hi>ſeed</hi> of <hi>Abraham</hi> to whom the promiſes were made, that were made to <hi>Abraham</hi> and to his <hi>ſeed,</hi> in <hi>Gal.</hi> 3.16. <hi>now to Abraham and to his ſeed were the promiſes made, he ſaith not, and to ſeeds, as to many, but as of one, and to thy ſeed, which is Chriſt:</hi> wherefore unleſſe theſe perſons would runne into ma<g ref="char:EOLhyphen"/>nifeſt wickedneſſe, (wee might ſay Blaſphemie againſt God) in ma<g ref="char:EOLhyphen"/>king themſelves Fathers of Chriſt, their greateſt honour lying in their being Children unto him, (if they be ſo) the promiſe cannot deſcend through them unto any perſon: The promiſe being but to <hi>Abraham,</hi> and to his ſeed, which is <hi>Chriſt,</hi> and to thoſe that are <hi>Chriſts</hi> ſeed, which to be, is more then to be ſeed to them, <hi>Iſa.</hi> 53.10. compared with <hi>Rom.</hi> 9.8. and <hi>Gal.</hi> 3. <hi>Vlt.</hi>
+            </p>
+            <p>Their next hould is that of the Apoſtle, <hi>Act.</hi> 2.39. for the promiſe is to you and to your Children, and to all that are a farre off, even as many as the Lord our God ſhall call, whence they conclude belie<g ref="char:EOLhyphen"/>vers to be within the <hi>Covenant,</hi> with their ſeed.</p>
+            <p>But we here likewiſe expoſtulate in three particulars.</p>
+            <p>Firſt, What that promiſe is:</p>
+            <p>Secondly, who theſe people were (to whom it was propoſed) <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the propoſall of it.</p>
+            <p>Thirdly, what is the extent and Latitude of that promiſe: the pro<g ref="char:EOLhyphen"/>miſe as is moſt plaine in <hi>ver.</hi> 17. and 33. of that <hi>Chapter,</hi> is the guiſt of the holy <hi>Spirit,</hi> which God at this time powred out upon the <hi>Diſciples.</hi> and <hi>Peter</hi> in his ſpeech houlds out no more: Repent ſaith he, and be baptized every one of you, for the remiſſion of ſins, and yee ſhall re<g ref="char:EOLhyphen"/>ceive the guift of the Holy Ghoſt.</p>
+            <p>Secondly, it is no leſſe plaine &amp; manifeſt that the perſons to whom
+<pb n="8" facs="tcp:106598:6" rendition="simple:additions"/>
+               <hi>Peter</hi> ſo ſpeaketh, were in his Judgement, as yet converts. For all that he heard from them was what ſhall we doe, and we find the Jaylor went further in his expreſſions, and yet <hi>Paul</hi> bids him believe in the <hi>Lord Ieſus,</hi> intimating that he not yet believed, though he had made a further inquiry after Salvation then theſe men.</p>
+            <p>The laſt thing propoſed, was the extent of that promiſe, what is might be; the place it ſelfe we thinke in that particular is cleare e<g ref="char:EOLhyphen"/>nough, for <hi>Peters</hi> exclamation muſt be conſidered, even to as many as the Lord our God ſhall call, for to no more of them, nor of their children, nor of them a farre off, then the Lord our God ſhall call, doth <hi>Peter</hi> in any wiſe apply that promiſe.</p>
+            <p>If you object that he applyeth the promiſe there to no more of them a farre off, then the <hi>Lord</hi> our <hi>God</hi> ſhall call: but he applyeth it to them and to their Children, abſolutely without the reſervation of being called of God. &amp;c.</p>
+            <p>Wee anſwer, that if we take theſe at this time, to be unbelievers as the truth is, then who ſees not the conſequence? if we take them to be believers, then all believers Children muſt have the Holy Ghoſt, though they never be called, which who will owne? <hi>Let them be be<g ref="char:EOLhyphen"/>lievers or unbelievers,</hi> it matters not much in the queſtion in hand, for they were <hi>Iewes,</hi> and therefore were in oppoſition to the <hi>Gentiles,</hi> who are there by your owne Judgement, ſpoken of as a farre off, and to thoſe a farre off, as the Objection yeeldeth, yea and that text alſo, be<g ref="char:EOLhyphen"/>longs not the promiſe, but upon being called, and thus are your chil<g ref="char:EOLhyphen"/>dren by your owne graunt excluded the promiſe till they be called.</p>
+            <p>The next hold they have is in 1 <hi>Cor.</hi> 7.14 which many ſtrike at: we wiſh you to conſider, that the ſame holineſſe of which the Child partaketh, is the unbelieving wife during her Infidelity a partaker of, and whether that be reaſonably concluded that thence ſhe may be Baptized, (which yet will hold as well as the other) we leave to you: The opinions of thoſe that deny election, that hold free will and falling from grace, &amp;c. Wee proteſt againſt and do abhorre: but becauſe we write a letter, and not a Book, wee muſt conclude as wee do, wiſhing peace to all that obey God onely, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:106598:6" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
